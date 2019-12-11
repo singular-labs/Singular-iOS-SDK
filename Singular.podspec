@@ -10,15 +10,15 @@ Pod::Spec.new do |spec|
   spec.author       = "Singular Labs"
 
   spec.ios.deployment_target = "8.0"
-  spec.source       = { :git => "https://github.com/singular-labs/Singular-iOS-SDK.git", :tag => spec.version.to_s }
+  spec.source       = { :git => "https://github.com/singular-labs/Singular-iOS-SDK.git", :tag => 'master' }
 
-  spec.source_files  = "Singular.h", "SingularLinkParams.h", "Singular.js"
-  spec.vendored_library = 'libSingular.a' 
-
+  spec.source_files  = 'headers/*.{h,js}'
+  spec.vendored_library = 'libraries/libSingular.a' 
+  spec.static_framework = true
   spec.frameworks  = ['AdSupport', 'Security', 'SystemConfiguration', 'iAd']
   spec.libraries = ['sqlite3.0', 'z']
 
-  spec.ios.pod_target_xcconfig = {
+  spec.pod_target_xcconfig = {
     'LIBRARY_SEARCH_PATHS' => '$(inherited) $(PODS_ROOT)/Singular/**',
     'OTHER_LDFLAGS' => '$(inherited) -l"Singular"'
   }
