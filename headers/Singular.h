@@ -95,7 +95,7 @@
 
 + (void)setSessionTimeout:(int)timeout;
 
-+ (void)setUnityVersion:(NSString*)version;
++ (void)setWrapperName:(NSString*)name andVersion:(NSString*)version;
 
 /* GDPR helpers */
 

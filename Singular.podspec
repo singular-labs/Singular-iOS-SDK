@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name         = "Singular"
-  spec.version      = "9.2.3"
+  spec.version      = "9.2.4"
   spec.summary      = "Singular's iOS SDK"
   spec.description  = "Singular's SDK integration for iOS"
   spec.license      = "MIT"
