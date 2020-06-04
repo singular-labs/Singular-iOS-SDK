@@ -14,8 +14,14 @@
 #import "SingularLinkParams.h"
 #endif
 
+// avoid circular include of SingularConfig
+#ifndef SingularConfig
+#import "SingularConfig.h"
+#endif
 
 @interface Singular : NSObject
+
++ (BOOL)start:(SingularConfig*)config;
 
 + (void)startSession:(NSString *)apiKey withKey:(NSString *)apiSecret ;
 + (BOOL)startSession:(NSString *)apiKey withKey:(NSString *)apiSecret andLaunchOptions:(NSDictionary *)launchOptions withSingularLinkHandler:(void(^)(SingularLinkParams*))handler;
