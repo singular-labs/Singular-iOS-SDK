@@ -22,6 +22,8 @@
     void(^singularLinksHandler)(SingularLinkParams*);
     long shortLinkResolveTimeOut;
     NSArray* supportedDomains;
+    NSDictionary* globalProperties;
+    BOOL overrideExisitingProperties;
 }
 
 @property NSString* apikey;
@@ -32,7 +34,9 @@
 @property void(^singularLinksHandler)(SingularLinkParams*);
 @property long shortLinkResolveTimeOut;
 @property NSArray* supportedDomains;
+@property (readonly) NSMutableDictionary* globalProperties;
 
 -(id)initWithApiKey:(NSString*)apikey andSecret:(NSString*)secret;
+-(void)setGlobalProperty:(NSString*)key withValue:(NSString*)value overrideExisting:(BOOL)overrideExisiting;
 
 @end

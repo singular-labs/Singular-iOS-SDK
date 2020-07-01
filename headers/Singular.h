@@ -103,6 +103,13 @@
 
 + (void)setWrapperName:(NSString*)name andVersion:(NSString*)version;
 
+/* Global Properties */
+
++ (NSDictionary*)getGlobalProperties;
++ (BOOL)setGlobalProperty:(NSString*)key andValue:(NSString*)value overrideExisting:(BOOL)overrideExisting;
++ (void)unsetGlobalProperty:(NSString*)key;
++ (void)clearGlobalProperties;
+
 /* GDPR helpers */
 
 + (void)trackingOptIn;
