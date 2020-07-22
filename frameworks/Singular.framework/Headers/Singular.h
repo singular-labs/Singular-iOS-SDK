@@ -117,5 +117,7 @@
 + (void)stopAllTracking;
 + (void)resumeAllTracking;
 + (BOOL)isAllTrackingStopped;
++ (void)limitDataSharing:(BOOL)shouldLimitDataSharing;
++ (BOOL)getLimitDataSharing;
 
 @end
