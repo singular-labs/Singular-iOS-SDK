@@ -118,6 +118,6 @@
 + (void)resumeAllTracking;
 + (BOOL)isAllTrackingStopped;
 + (void)limitDataSharing:(BOOL)shouldLimitDataSharing;
-+ (NSNumber*)getLimitDataSharing;
++ (BOOL)getLimitDataSharing;
 
 @end
