@@ -13,30 +13,30 @@
 #endif
 
 @interface SingularConfig : NSObject
-{
-    NSString* apikey;
-    NSString* secret;
-    NSDictionary* launchOptions;
-    NSUserActivity* userActivity;
-    NSURL* openUrl;
-    void(^singularLinksHandler)(SingularLinkParams*);
-    long shortLinkResolveTimeOut;
-    NSArray* supportedDomains;
-    NSDictionary* globalProperties;
-    BOOL overrideExisitingProperties;
-}
 
+// General Fields
 @property NSString* apikey;
 @property NSString* secret;
+
+// Singular Links fields
 @property NSDictionary *launchOptions;
 @property NSUserActivity* userActivity;
 @property NSURL* openUrl;
 @property void(^singularLinksHandler)(SingularLinkParams*);
 @property long shortLinkResolveTimeOut;
 @property NSArray* supportedDomains;
+
+// Global Properties fields
 @property (readonly) NSMutableDictionary* globalProperties;
 
+// SKAN fields
+@property BOOL skAdNetworkEnabled;
+@property BOOL manualSkanConversionManagement;
+@property void(^conversionValueUpdatedCallback)(NSInteger);
+@property NSInteger waitForTrackingAuthorizationWithTimeoutInterval;
+
 -(id)initWithApiKey:(NSString*)apikey andSecret:(NSString*)secret;
+
 -(void)setGlobalProperty:(NSString*)key withValue:(NSString*)value overrideExisting:(BOOL)overrideExisiting;
 
 @end

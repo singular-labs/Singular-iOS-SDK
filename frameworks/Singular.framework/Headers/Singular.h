@@ -2,7 +2,7 @@
 //  Singular.h
 //  Singular SDK for iOS public API
 //
-//  Copyright © 2010-2016 Singular Inc. All rights reserved.
+//  Copyright © 2010-2020 Singular Inc. All rights reserved.
 //
 
 #import <Foundation/Foundation.h>
@@ -23,7 +23,7 @@
 
 + (BOOL)start:(SingularConfig*)config;
 
-+ (void)startSession:(NSString *)apiKey withKey:(NSString *)apiSecret ;
++ (void)startSession:(NSString *)apiKey withKey:(NSString *)apiSecret;
 + (BOOL)startSession:(NSString *)apiKey withKey:(NSString *)apiSecret andLaunchOptions:(NSDictionary *)launchOptions withSingularLinkHandler:(void(^)(SingularLinkParams*))handler;
 + (BOOL)startSession:(NSString *)apiKey withKey:(NSString *)apiSecret
     andLaunchOptions:(NSDictionary *)launchOptions withSingularLinkHandler:(void(^)(SingularLinkParams*))handler andShortLinkResolveTimeout:(long)timeoutSec;
@@ -119,5 +119,11 @@
 + (BOOL)isAllTrackingStopped;
 + (void)limitDataSharing:(BOOL)shouldLimitDataSharing;
 + (BOOL)getLimitDataSharing;
+
+/* SKAN Methods */
+
++ (void)skanRegisterAppForAdNetworkAttribution;
++ (BOOL)skanUpdateConversionValue:(NSInteger)conversionValue;
++ (NSNumber *)skanGetConversionValue;
 
 @end
