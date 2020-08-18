@@ -13,7 +13,7 @@ Pod::Spec.new do |spec|
   spec.ios.source_files  = 'headers/*.h'
   spec.ios.resources = ['headers/*.js']
   spec.ios.vendored_frameworks = 'frameworks/Singular.framework' 
-  spec.ios.frameworks  = 'AdSupport', 'Security', 'SystemConfiguration', 'iAd', 'StoreKit'
+  spec.ios.frameworks  = 'AdSupport', 'Security', 'SystemConfiguration', 'iAd', 'StoreKit', 'WebKit'
   spec.ios.libraries = 'sqlite3.0', 'z'
   spec.ios.pod_target_xcconfig = {
     'FRAMEWORK_SEARCH_PATHS' => '$(inherited) $(PODS_ROOT)/Singular-SDK/frameworks/**',
