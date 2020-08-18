@@ -100,6 +100,7 @@
 + (void)unsetCustomUserId;
 
 + (void)setSessionTimeout:(int)timeout;
++ (NSInteger)getFirstSessionUnixTime;
 
 + (void)setWrapperName:(NSString*)name andVersion:(NSString*)version;
 
