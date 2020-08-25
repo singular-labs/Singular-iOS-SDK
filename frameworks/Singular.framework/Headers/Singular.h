@@ -127,4 +127,8 @@
 + (BOOL)skanUpdateConversionValue:(NSInteger)conversionValue;
 + (NSNumber *)skanGetConversionValue;
 
+/* Singular Links */
+
++(BOOL)isSingularLink:(id)linkHolder;
+
 @end
