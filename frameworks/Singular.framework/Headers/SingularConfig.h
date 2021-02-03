@@ -15,16 +15,16 @@
 @interface SingularConfig : NSObject
 
 // General Fields
-@property NSString* apikey;
-@property NSString* secret;
+@property (assign) NSString* apikey;
+@property (assign) NSString* secret;
 
 // Singular Links fields
-@property NSDictionary *launchOptions;
-@property NSUserActivity* userActivity;
-@property NSURL* openUrl;
+@property (assign) NSDictionary *launchOptions;
+@property (assign) NSUserActivity* userActivity;
+@property (assign) NSURL* openUrl;
 @property void(^singularLinksHandler)(SingularLinkParams*);
 @property long shortLinkResolveTimeOut;
-@property NSArray* supportedDomains;
+@property (assign) NSArray* supportedDomains;
 
 // Global Properties fields
 @property (readonly) NSMutableDictionary* globalProperties;
