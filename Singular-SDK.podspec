@@ -13,7 +13,7 @@ Pod::Spec.new do |spec|
   spec.ios.source_files  = 'headers/*.h'
   spec.ios.resources = ['headers/*.js']
   spec.ios.vendored_frameworks = 'frameworks/Singular.framework' 
-  spec.ios.frameworks  = 'AdSupport', 'Security', 'SystemConfiguration', 'iAd', 'StoreKit', 'WebKit', 'AdServices'
+  spec.ios.frameworks  = 'AdSupport', 'Security', 'SystemConfiguration', 'iAd', 'StoreKit', 'WebKit'
   spec.ios.libraries = 'sqlite3.0', 'z'
   spec.pod_target_xcconfig = {
     'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64'
