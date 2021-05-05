@@ -25,6 +25,7 @@
 @property void(^singularLinksHandler)(SingularLinkParams*);
 @property long shortLinkResolveTimeOut;
 @property NSArray* supportedDomains;
+@property NSArray* espDomains;
 
 // Global Properties fields
 @property (readonly) NSMutableDictionary* globalProperties;
