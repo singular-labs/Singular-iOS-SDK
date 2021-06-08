@@ -25,7 +25,7 @@ Singular SDK version 10.4.1 supports installation via Swift Package Manager.
 
 **Step 5.** Add the following libraries. ```AdServices.framework``` (Must be added, but mark it as Optional since it's only available for devices with iOS 14.3 and higher).
 
-<img width="1310" alt="Screenshot 2021-06-08 at 5 18 42 PM" src="https://user-images.githubusercontent.com/72547023/121179680-9e770700-c87d-11eb-9486-1280c3d23d30.png">
+<img width="741" alt="Screenshot 2021-06-08 at 5 27 44 PM" src="https://user-images.githubusercontent.com/72547023/121180811-e185aa00-c87e-11eb-8342-75fa7df3fa05.png">
 
 **Step 6.**  In your ```AppDelegate``` file import Singular module and start using Singular SDK
 
