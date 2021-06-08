@@ -1,4 +1,7 @@
 # Singular-iOS-SDK
+
+To get the instructions on how to integrate Singular iOS SDK please visit the following page [iOS SDK](https://support.singular.net/hc/en-us/articles/360037950591)
+
 ## Swift Package Manager
 ### Introduction
 Singular SDK version 10.4.1 supports installation via Swift Package Manager.
@@ -20,7 +23,7 @@ Select the Singular library
 
 <img width="715" alt="Screenshot 2021-06-08 at 4 39 37 PM" src="https://user-images.githubusercontent.com/72547023/121176159-869d8400-c879-11eb-89b1-283c1afd78af.png">
 
-Add the following libraries 
+Add the following libraries. ```AdServices.framework``` (Must be added, but mark it as Optional since it's only available for devices with iOS 14.3 and higher).
 
 <img width="730" alt="Screenshot 2021-06-08 at 4 43 50 PM" src="https://user-images.githubusercontent.com/72547023/121176246-9e750800-c879-11eb-9e6e-b7205820a012.png">
 
