@@ -34,3 +34,4 @@ Pod::Spec.new do |spec|
         'OTHER_LDFLAGS' => '$(inherited) -framework "Singular"'
   }
   end
+end
