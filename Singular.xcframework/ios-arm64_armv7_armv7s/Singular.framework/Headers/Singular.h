@@ -8,6 +8,7 @@
 #import <Foundation/Foundation.h>
 #import <UIKit/UIKit.h>
 #import <WebKit/WebKit.h>
+#import "SingularAdData.h"
 
 // avoid circular include of SingularLinkParams
 #ifndef SingularLinkParams
@@ -130,5 +131,9 @@
 /* Singular Links */
 
 +(BOOL)isSingularLink:(id)linkHolder;
+
+/* Admon Methods*/
+
++ (void)adRevenue:(SingularAdData*)adData;
 
 @end
