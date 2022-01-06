@@ -10,8 +10,6 @@ Pod::Spec.new do |spec|
 
   spec.static_framework = true
   spec.ios.deployment_target = "8.0"
-  spec.ios.source_files  = 'headers/*.h'
-  spec.ios.resources = ['headers/*.js']
   spec.ios.frameworks  = 'AdSupport', 'Security', 'SystemConfiguration', 'iAd', 'StoreKit', 'WebKit'
   spec.ios.weak_framework = 'AdServices'
 
@@ -25,6 +23,9 @@ Pod::Spec.new do |spec|
   
   spec.subspec 'Legacy' do |ss|
     ss.ios.vendored_frameworks = 'frameworks/Singular.framework'
+    ss.ios.source_files  = 'headers/*.h'
+    ss.ios.resources = ['headers/*.js']
+
     ss.pod_target_xcconfig = {
         'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64'
     }
