@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name         = "Singular-SDK"
-  spec.version      = "11.0.2"
+  spec.version      = "11.0.3"
   spec.summary      = "Singular's iOS SDK"
   spec.description  = "Singular's SDK integration for iOS"
   spec.license      = "MIT"
@@ -10,18 +10,29 @@ Pod::Spec.new do |spec|
 
   spec.static_framework = true
   spec.ios.deployment_target = "8.0"
-  spec.ios.source_files  = 'headers/*.h'
-  spec.ios.resources = ['headers/*.js']
-  spec.ios.vendored_frameworks = 'frameworks/Singular.framework' 
   spec.ios.frameworks  = 'AdSupport', 'Security', 'SystemConfiguration', 'iAd', 'StoreKit', 'WebKit'
-  spec.ios.libraries = 'sqlite3.0', 'z'
-  spec.pod_target_xcconfig = {
-    'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64'
-  }
-  spec.user_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
-  spec.ios.pod_target_xcconfig = {
-    'FRAMEWORK_SEARCH_PATHS' => '$(inherited) $(PODS_ROOT)/Singular-SDK/frameworks/**',
-    'OTHER_LDFLAGS' => '$(inherited) -framework "Singular"'
-  }
+  spec.ios.weak_framework = 'AdServices'
 
+  spec.ios.libraries = 'sqlite3.0', 'z'
+
+  spec.default_subspecs = 'Main'
+
+  spec.subspec 'Main' do |ss|
+    ss.ios.vendored_frameworks = 'Singular.xcframework'
+  end
+  
+  spec.subspec 'Legacy' do |ss|
+    ss.ios.vendored_frameworks = 'frameworks/Singular.framework'
+    ss.ios.source_files  = 'headers/*.h'
+    ss.ios.resources = ['headers/*.js']
+
+    ss.pod_target_xcconfig = {
+        'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64'
+    }
+    ss.user_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
+    ss.ios.pod_target_xcconfig = {
+        'FRAMEWORK_SEARCH_PATHS' => '$(inherited) $(PODS_ROOT)/Singular-SDK/frameworks/**',
+        'OTHER_LDFLAGS' => '$(inherited) -framework "Singular"'
+  }
+  end
 end
