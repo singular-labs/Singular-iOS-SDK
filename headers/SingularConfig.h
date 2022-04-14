@@ -17,6 +17,7 @@
 // General Fields
 @property NSString* apikey;
 @property NSString* secret;
+@property BOOL clipboardAttribution;
 
 // Singular Links fields
 @property NSDictionary *launchOptions;
