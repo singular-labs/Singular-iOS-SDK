@@ -15,27 +15,27 @@
 @interface SingularConfig : NSObject
 
 // General Fields
-@property (strong)NSString* apikey;
-@property (strong)NSString* secret;
-@property (assign)BOOL clipboardAttribution;
+@property NSString* apikey;
+@property NSString* secret;
+@property BOOL clipboardAttribution;
 
 // Singular Links fields
-@property (strong)NSDictionary *launchOptions;
-@property (strong)NSUserActivity* userActivity;
-@property (strong)NSURL* openUrl;
-@property (assign)void(^singularLinksHandler)(SingularLinkParams*);
-@property (assign)long shortLinkResolveTimeOut;
-@property (strong)NSArray* supportedDomains;
-@property (strong)NSArray* espDomains;
+@property NSDictionary *launchOptions;
+@property NSUserActivity* userActivity;
+@property NSURL* openUrl;
+@property void(^singularLinksHandler)(SingularLinkParams*);
+@property long shortLinkResolveTimeOut;
+@property NSArray* supportedDomains;
+@property NSArray* espDomains;
 
 // Global Properties fields
-@property (strong, readonly) NSMutableDictionary* globalProperties;
+@property (readonly) NSMutableDictionary* globalProperties;
 
 // SKAN fields
-@property (assign)BOOL skAdNetworkEnabled;
-@property (assign)BOOL manualSkanConversionManagement;
-@property (assign)void(^conversionValueUpdatedCallback)(NSInteger);
-@property (assign)NSInteger waitForTrackingAuthorizationWithTimeoutInterval;
+@property BOOL skAdNetworkEnabled;
+@property BOOL manualSkanConversionManagement;
+@property void(^conversionValueUpdatedCallback)(NSInteger);
+@property NSInteger waitForTrackingAuthorizationWithTimeoutInterval;
 
 -(id)initWithApiKey:(NSString*)apikey andSecret:(NSString*)secret;
 
