@@ -9,6 +9,8 @@
 #import <UIKit/UIKit.h>
 #import <WebKit/WebKit.h>
 #import "SingularAdData.h"
+#import "Events.h"
+#import "Attributes.h"
 
 // avoid circular include of SingularLinkParams
 #ifndef SingularLinkParams
