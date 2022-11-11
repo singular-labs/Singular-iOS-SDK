@@ -4,7 +4,7 @@ To get the instructions on how to integrate Singular iOS SDK please visit the fo
 
 ## Swift Package Manager
 ### Introduction
-Singular SDK version 11.0.11 supports installation via Swift Package Manager.
+Singular SDK version 11.0.10 supports installation via Swift Package Manager.
 
 ### Installation
 **Step 1.** In Xcode go to: File -> Swift Packages -> Add Package Dependency...
