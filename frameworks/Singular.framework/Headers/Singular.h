@@ -130,6 +130,7 @@
 
 + (void)skanRegisterAppForAdNetworkAttribution;
 + (BOOL)skanUpdateConversionValue:(NSInteger)conversionValue;
++ (void)skanUpdateConversionValue:(NSInteger)conversionValue coarse:(NSInteger)coarse lock:(BOOL)lock;
 + (NSNumber *)skanGetConversionValue;
 
 #pragma mark - Singular Links

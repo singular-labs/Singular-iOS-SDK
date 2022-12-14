@@ -35,6 +35,7 @@
 @property BOOL skAdNetworkEnabled;
 @property BOOL manualSkanConversionManagement;
 @property void(^conversionValueUpdatedCallback)(NSInteger);
+@property void(^conversionValuesUpdatedCallback)(NSNumber *, NSNumber *, BOOL);
 @property NSInteger waitForTrackingAuthorizationWithTimeoutInterval;
 
 -(id)initWithApiKey:(NSString*)apikey andSecret:(NSString*)secret;

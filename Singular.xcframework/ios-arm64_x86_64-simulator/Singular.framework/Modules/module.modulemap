@@ -1,6 +1,0 @@
-framework module Singular {
-  umbrella header "Singular.h"
-
-  export *
-  module * { export * }
-}
