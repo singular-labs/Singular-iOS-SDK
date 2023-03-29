@@ -25,7 +25,7 @@
 @property NSURL* openUrl;
 @property void(^singularLinksHandler)(SingularLinkParams*);
 @property long shortLinkResolveTimeOut;
-@property NSArray* supportedDomains;
+@property NSArray* supportedDomains __attribute__((deprecated));
 @property NSArray* espDomains;
 
 // Global Properties fields

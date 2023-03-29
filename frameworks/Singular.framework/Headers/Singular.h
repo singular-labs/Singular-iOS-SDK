@@ -32,12 +32,12 @@
 + (BOOL)startSession:(NSString *)apiKey withKey:(NSString *)apiSecret andLaunchOptions:(NSDictionary *)launchOptions withSingularLinkHandler:(void(^)(SingularLinkParams*))handler;
 + (BOOL)startSession:(NSString *)apiKey withKey:(NSString *)apiSecret
     andLaunchOptions:(NSDictionary *)launchOptions withSingularLinkHandler:(void(^)(SingularLinkParams*))handler andShortLinkResolveTimeout:(long)timeoutSec;
-+ (BOOL)startSession:(NSString *)apiKey withKey:(NSString *)apiSecret andLaunchOptions:(NSDictionary *)launchOptions withSingularLinkHandler:(void(^)(SingularLinkParams*))handler andSupportedDomains:(NSArray*)domains;
-+ (BOOL)startSession:(NSString *)apiKey withKey:(NSString *)apiSecret andLaunchOptions:(NSDictionary *)launchOptions withSingularLinkHandler:(void(^)(SingularLinkParams*))handler andShortLinkResolveTimeout:(long)timeoutSec andSupportedDomains:(NSArray*)domains;
++ (BOOL)startSession:(NSString *)apiKey withKey:(NSString *)apiSecret andLaunchOptions:(NSDictionary *)launchOptions withSingularLinkHandler:(void(^)(SingularLinkParams*))handler andSupportedDomains:(NSArray*)domains __attribute__((deprecated));
++ (BOOL)startSession:(NSString *)apiKey withKey:(NSString *)apiSecret andLaunchOptions:(NSDictionary *)launchOptions withSingularLinkHandler:(void(^)(SingularLinkParams*))handler andShortLinkResolveTimeout:(long)timeoutSec andSupportedDomains:(NSArray*)domains __attribute__((deprecated));
 + (BOOL)startSession:(NSString *)apiKey withKey:(NSString *)apiSecret andUserActivity:(NSUserActivity *)userActivity withSingularLinkHandler:(void(^)(SingularLinkParams*))handler;
 + (BOOL)startSession:(NSString *)apiKey withKey:(NSString *)apiSecret andUserActivity:(NSUserActivity *)userActivity withSingularLinkHandler:(void(^)(SingularLinkParams*))handler andShortLinkResolveTimeout:(long)timeoutSec;
-+ (BOOL)startSession:(NSString *)apiKey withKey:(NSString *)apiSecret andUserActivity:(NSUserActivity *)userActivity withSingularLinkHandler:(void(^)(SingularLinkParams*))handler andSupportedDomains:(NSArray*)domains;
-+ (BOOL)startSession:(NSString *)apiKey withKey:(NSString *)apiSecret andUserActivity:(NSUserActivity *)userActivity withSingularLinkHandler:(void(^)(SingularLinkParams*))handler andShortLinkResolveTimeout:(long)timeoutSec andSupportedDomains:(NSArray*)domains;
++ (BOOL)startSession:(NSString *)apiKey withKey:(NSString *)apiSecret andUserActivity:(NSUserActivity *)userActivity withSingularLinkHandler:(void(^)(SingularLinkParams*))handler andSupportedDomains:(NSArray*)domains __attribute__((deprecated));
++ (BOOL)startSession:(NSString *)apiKey withKey:(NSString *)apiSecret andUserActivity:(NSUserActivity *)userActivity withSingularLinkHandler:(void(^)(SingularLinkParams*))handler andShortLinkResolveTimeout:(long)timeoutSec andSupportedDomains:(NSArray*)domains __attribute__((deprecated));
 + (void)startSession:(NSString *)apiKey withKey:(NSString *)apiSecret andLaunchOptions:(NSDictionary *)launchOptions;
 + (void)startSession:(NSString *)apiKey withKey:(NSString *)apiSecret andLaunchURL:(NSURL *)url;
 + (void)reStartSession:(NSString *)apiKey withKey:(NSString *)apiSecret;
