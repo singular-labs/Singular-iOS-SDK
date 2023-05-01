@@ -43,4 +43,8 @@
 -(void)setGlobalProperty:(NSString*)key withValue:(NSString*)value overrideExisting:(BOOL)overrideExisiting;
 -(NSString*)toJsonString;
 
+//Test for app extension
+@property BOOL supportAppExtension;
+@property NSString *appGroupName;
+
 @end
