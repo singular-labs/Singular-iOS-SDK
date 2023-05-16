@@ -101,8 +101,8 @@
 + (void)customRevenue:(NSString *)eventname currency:(NSString *)currency amount:(double)amount withAttributes:(NSDictionary *)attributes;
 + (void)customRevenue:(NSString *)eventname currency:(NSString *)currency amount:(double)amount productSKU:(NSString *)productSKU productName:(NSString *)productName productCategory:(NSString *)productCategory productQuantity:(int)productQuantity productPrice:(double)productPrice;
 
-+ (void)customeRevenue:(NSData *)transactionJsonRepresentation productJsonRepresentation:(NSData *)productJsonRepresentation;
-+ (void)customeRevenue:(NSString *)eventName transactionJsonRepresentation:(NSData *)transactionJsonRepresentation productJsonRepresentation:(NSData *)productJsonRepresentation;
++ (void)customRevenue:(NSData *)transactionJsonRepresentation productJsonRepresentation:(NSData *)productJsonRepresentation;
++ (void)customRevenue:(NSString *)eventName transactionJsonRepresentation:(NSData *)transactionJsonRepresentation productJsonRepresentation:(NSData *)productJsonRepresentation;
 
 + (void)setCustomUserId:(NSString *)customUserId;
 + (void)unsetCustomUserId;
