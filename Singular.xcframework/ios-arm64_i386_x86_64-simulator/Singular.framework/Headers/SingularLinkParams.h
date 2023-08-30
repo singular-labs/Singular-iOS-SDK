@@ -2,22 +2,20 @@
 //  SingularLinkParams.h
 //  Singular
 //
-//  Created by Eyal Rabinovich on 15/04/2019.
+//  Copyright © 2010-2023 Singular Inc. All rights reserved.
 //
 
 #import <Foundation/Foundation.h>
 
-@interface SingularLinkParams: NSObject{
-    NSString* deeplink;
-    NSString* passthrough;
-    BOOL isDeferred;
-}
+@interface SingularLinkParams: NSObject
 
-- (id)initWithDeepLink:(NSString *)link andPassthrough:(NSString *)sentPassthrough isDeferred:(BOOL)isLinkDeferred;
+- (id) initWithDeeplink:(NSString*)deeplink passthrough:(NSString*)passthrough isDeferred:(BOOL)isDeferred url:(NSURL*)url;
 
-- (NSString*)getDeepLink;
-- (NSString*)getPassthrough;
+- (NSString *)getDeepLink;
+- (NSString *)getPassthrough;
 - (BOOL)isDeferred;
+ 
+/// Returns a lazy-initialized NSDictionary with key-value pairs of the query parameters in the evaluated URL
+- (NSDictionary *)getUrlParameters;
 
 @end
-

@@ -2,7 +2,7 @@
 //  SingularAdData.h
 //  Singular
 //
-//  Created by Eyal Rabinovich on 13/06/2019.
+//  Copyright © 2010-2023 Singular Inc. All rights reserved.
 //
 
 #import <Foundation/Foundation.h>
