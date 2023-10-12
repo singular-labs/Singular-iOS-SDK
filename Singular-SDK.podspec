@@ -10,7 +10,7 @@ Pod::Spec.new do |spec|
 
   spec.static_framework = true
   spec.ios.deployment_target = "8.0"
-  spec.ios.frameworks  = 'AdSupport', 'Security', 'SystemConfiguration', 'iAd', 'StoreKit', 'WebKit'
+  spec.ios.frameworks  = 'AdSupport', 'Security', 'SystemConfiguration', 'StoreKit', 'WebKit'
   spec.ios.weak_framework = 'AdServices'
 
   spec.ios.libraries = 'sqlite3.0', 'z'
