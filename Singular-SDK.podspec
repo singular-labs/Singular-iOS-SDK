@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name         = "Singular-SDK"
-  spec.version      = "12.1.1"
+  spec.version      = "12.2.0"
   spec.summary      = "Singular's iOS SDK"
   spec.description  = "Singular's SDK integration for iOS"
   spec.license      = "MIT"
@@ -10,7 +10,7 @@ Pod::Spec.new do |spec|
 
   spec.static_framework = true
   spec.ios.deployment_target = "8.0"
-  spec.ios.frameworks  = 'AdSupport', 'Security', 'SystemConfiguration', 'iAd', 'StoreKit', 'WebKit'
+  spec.ios.frameworks  = 'AdSupport', 'Security', 'SystemConfiguration', 'StoreKit', 'WebKit'
   spec.ios.weak_framework = 'AdServices'
 
   spec.ios.libraries = 'sqlite3.0', 'z'
