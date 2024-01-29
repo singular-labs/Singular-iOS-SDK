@@ -37,11 +37,18 @@
 @property void(^conversionValueUpdatedCallback)(NSInteger);
 @property void(^conversionValuesUpdatedCallback)(NSNumber *, NSNumber *, BOOL);
 @property NSInteger waitForTrackingAuthorizationWithTimeoutInterval;
+@property void(^deviceAttributionCallback)(NSDictionary *);
 
 -(id)initWithApiKey:(NSString*)apikey andSecret:(NSString*)secret;
 
 -(void)setGlobalProperty:(NSString*)key withValue:(NSString*)value overrideExisting:(BOOL)overrideExisiting;
 -(NSString*)toJsonString;
+
+// SDID
+typedef void (^SdidAccessorHandler)(NSString* result);
+@property NSString *customSdid;
+@property SdidAccessorHandler didSetSdidHandler;
+@property SdidAccessorHandler sdidReceivedHandler;
 
 //Test for app extension
 @property BOOL supportAppExtension;
