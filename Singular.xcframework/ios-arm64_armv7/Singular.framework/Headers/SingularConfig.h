@@ -37,6 +37,13 @@
 @property void(^conversionValueUpdatedCallback)(NSInteger);
 @property void(^conversionValuesUpdatedCallback)(NSNumber *, NSNumber *, BOOL);
 @property NSInteger waitForTrackingAuthorizationWithTimeoutInterval;
+@property void(^deviceAttributionCallback)(NSDictionary *);
+
+// SDID - Singular Device Identifier
+typedef void (^SdidAccessorHandler)(NSString* result);
+@property NSString *customSdid;
+@property SdidAccessorHandler didSetSdidHandler;
+@property SdidAccessorHandler sdidReceivedHandler;
 
 -(id)initWithApiKey:(NSString*)apikey andSecret:(NSString*)secret;
 
