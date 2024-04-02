@@ -42,7 +42,7 @@
 	<true/>
 	<key>NSPrivacyTrackingDomains</key>
 	<array>
-		<string>taps.singular.net</string>
+		<string>safetrack.singular.net</string>
 	</array>
 </dict>
 </plist>
