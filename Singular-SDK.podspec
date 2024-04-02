@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name         = "Singular-SDK"
-  spec.version      = "12.3.2"
+  spec.version      = "12.4.0"
   spec.summary      = "Singular's iOS SDK"
   spec.description  = "Singular's SDK integration for iOS"
   spec.license      = "MIT"
@@ -19,13 +19,14 @@ Pod::Spec.new do |spec|
 
   spec.subspec 'Main' do |ss|
     ss.ios.vendored_frameworks = 'Singular.xcframework'
+    ss.resource_bundles = {"Singular":"Singular/PrivacyInfo.xcprivacy"}
   end
   
   spec.subspec 'Legacy' do |ss|
     ss.ios.vendored_frameworks = 'frameworks/Singular.framework'
     ss.ios.source_files  = 'headers/*.h'
     ss.ios.resources = ['headers/*.js']
-
+    ss.resource_bundles = {"Singular":"Singular/PrivacyInfo.xcprivacy"}
     ss.pod_target_xcconfig = {
         'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64'
     }
