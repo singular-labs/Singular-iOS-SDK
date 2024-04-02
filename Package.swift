@@ -6,13 +6,19 @@ import PackageDescription
 let package = Package(
     name: "Singular",
     products: [
+        // Products define the executables and libraries a package produces, and make them visible to other packages.
         .library(
             name: "Singular",
             targets: ["Singular"]),
     ],
     dependencies: [
     ],
-    targets: [.binaryTarget(
-                name: "Singular",
-                path: "Singular.xcframework")]
+    targets: [
+        .target(
+            name: "Singular",
+            dependencies:["SingularBinary"],
+            path: "Singular/",
+            resources: [.copy("PrivacyInfo.xcprivacy")]),
+        .binaryTarget(name: "SingularBinary", path: "Singular-SPM.xcframework")
+    ]
 )
