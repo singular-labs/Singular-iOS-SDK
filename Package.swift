@@ -14,5 +14,5 @@ let package = Package(
     ],
     targets: [.binaryTarget(
                 name: "Singular",
-                path: "Singular.xcframework")]
+                path: "Singular-SPM.xcframework")]
 )
