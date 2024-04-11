@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name         = "Singular-SDK"
-  spec.version      = "12.3.2"
+  spec.version      = "12.4.1"
   spec.summary      = "Singular's iOS SDK"
   spec.description  = "Singular's SDK integration for iOS"
   spec.license      = "MIT"
@@ -8,7 +8,6 @@ Pod::Spec.new do |spec|
   spec.author       = "Singular Labs"
   spec.source       = { :git => "https://github.com/singular-labs/Singular-iOS-SDK.git", :tag => spec.version.to_s }
 
-  spec.static_framework = true
   spec.ios.deployment_target = "8.0"
   spec.ios.frameworks  = 'AdSupport', 'Security', 'SystemConfiguration', 'StoreKit', 'WebKit'
   spec.ios.weak_framework = 'AdServices'
