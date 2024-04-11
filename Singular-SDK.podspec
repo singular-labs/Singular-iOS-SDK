@@ -8,7 +8,7 @@ Pod::Spec.new do |spec|
   spec.author       = "Singular Labs"
   spec.source       = { :git => "https://github.com/singular-labs/Singular-iOS-SDK.git", :tag => spec.version.to_s }
 
-  spec.ios.deployment_target = "8.0"
+  spec.ios.deployment_target = "12.0"
   spec.ios.frameworks  = 'AdSupport', 'Security', 'SystemConfiguration', 'StoreKit', 'WebKit'
   spec.ios.weak_framework = 'AdServices'
 
