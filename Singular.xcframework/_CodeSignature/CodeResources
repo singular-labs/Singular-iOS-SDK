@@ -34,7 +34,7 @@
 		</data>
 		<key>ios-arm64/Singular.framework/Info.plist</key>
 		<data>
-		hl/Ghu/J2CwJgJS2ph9AChgrT0s=
+		Bi6Q54KDnLaGiBnz+Si21idPssQ=
 		</data>
 		<key>ios-arm64/Singular.framework/Modules/module.modulemap</key>
 		<data>
@@ -46,7 +46,7 @@
 		</data>
 		<key>ios-arm64/Singular.framework/Singular</key>
 		<data>
-		H30XpDU8LEtWptBE7gwPTnzHHWQ=
+		/6dwzcOyVIq8YbnUOQBELCPWhL4=
 		</data>
 		<key>ios-arm64_x86_64-simulator/Singular.framework/Headers/Attributes.h</key>
 		<data>
@@ -78,7 +78,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/Singular.framework/Info.plist</key>
 		<data>
-		Vr80Bc8FYVge3ikVOfr0pqAzwbs=
+		VDgGi56cOBFu/OLs5bbRXhjPuLE=
 		</data>
 		<key>ios-arm64_x86_64-simulator/Singular.framework/Modules/module.modulemap</key>
 		<data>
@@ -90,7 +90,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/Singular.framework/Singular</key>
 		<data>
-		q5nm/EetShVEhez6FLKsHfPcdrw=
+		A94Ydm/YcNqKkQI4rrQc7NGalmo=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -176,11 +176,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			hl/Ghu/J2CwJgJS2ph9AChgrT0s=
+			Bi6Q54KDnLaGiBnz+Si21idPssQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			me3hbo3iy1mcsnct5rOVGw2phgoA23ciIJRPdmVkrAM=
+			tD1S1TmBWZaDxThjdMEYR/izjiOIYJ5zQ7vf5ENYB7g=
 			</data>
 		</dict>
 		<key>ios-arm64/Singular.framework/Modules/module.modulemap</key>
@@ -209,11 +209,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			H30XpDU8LEtWptBE7gwPTnzHHWQ=
+			/6dwzcOyVIq8YbnUOQBELCPWhL4=
 			</data>
 			<key>hash2</key>
 			<data>
-			v+AIXuiqbDTN9F18TqI66gE5r1po+w3b9ih/mKRP77I=
+			KY/EZCgtlE4ixiTXpgmI+5TJD359iQXZDrrJTFNGfgo=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/Singular.framework/Headers/Attributes.h</key>
@@ -297,11 +297,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Vr80Bc8FYVge3ikVOfr0pqAzwbs=
+			VDgGi56cOBFu/OLs5bbRXhjPuLE=
 			</data>
 			<key>hash2</key>
 			<data>
-			MCl6jKccQtPST+caVvdTBFBVwgmpQuuNOBiQeh+S71o=
+			rGQK3oFXSdp73OGQWNTGfIO+O0Hb5zFfvxyc6Af99go=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/Singular.framework/Modules/module.modulemap</key>
@@ -330,11 +330,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			q5nm/EetShVEhez6FLKsHfPcdrw=
+			A94Ydm/YcNqKkQI4rrQc7NGalmo=
 			</data>
 			<key>hash2</key>
 			<data>
-			yZDAN0AiGItyQnX04tmox75SItoX2aDhSnzk0kDqhRY=
+			Zqn8kqSDAJ2Pb4OyZmOEExsQaksq+tdg00QcxhBtEHA=
 			</data>
 		</dict>
 	</dict>
