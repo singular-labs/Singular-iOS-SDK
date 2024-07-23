@@ -34,7 +34,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		Bi6Q54KDnLaGiBnz+Si21idPssQ=
+		RHlC4YyMdf+0tbwwjFk6MT1PTiM=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -49,6 +49,10 @@
 	<dict>
 		<key>Headers/Attributes.h</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			wrLVumjRPbZKRS8e27l5ng9h3MM=
+			</data>
 			<key>hash2</key>
 			<data>
 			XT+GCWYSKu5Mo00KqOppJ0x5hMWreHqpstysiwz9UhQ=
@@ -56,6 +60,10 @@
 		</dict>
 		<key>Headers/Events.h</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			5IRRK0/rTG8Vu2HIOY4R62XL+x4=
+			</data>
 			<key>hash2</key>
 			<data>
 			4cQQtgU+NpPlW+rlxEtoXT+lBzobfMAHzVTlraY2a+c=
@@ -63,6 +71,10 @@
 		</dict>
 		<key>Headers/Singular.h</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			sBLDtqeepgHLMI0yc6ikncAF+5Q=
+			</data>
 			<key>hash2</key>
 			<data>
 			bSFLIUILgznF9Y9mKvPRbxyOT5x3XEYw8X6iaIcsorw=
@@ -70,6 +82,10 @@
 		</dict>
 		<key>Headers/Singular.js</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			e5lbquWxzh44LdpblmL8p7+/g/8=
+			</data>
 			<key>hash2</key>
 			<data>
 			SiyIsCQufdKdNw4svHtay8BIggzc96zlba0OCweFT/Q=
@@ -77,6 +93,10 @@
 		</dict>
 		<key>Headers/SingularAdData.h</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			IZOpHrNFiAPAVzPCZ+yIc+/GzG0=
+			</data>
 			<key>hash2</key>
 			<data>
 			KcSlOjavAXI3gDdG92YxJtqEVialx7Exv838D1S1M9g=
@@ -84,6 +104,10 @@
 		</dict>
 		<key>Headers/SingularConfig.h</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			asDEMdfUC/rB9R0ryB8XG/0bh20=
+			</data>
 			<key>hash2</key>
 			<data>
 			sgkoe6pnzD23yHtM/softTfm9tS0YCGyejaYXrcI8pI=
@@ -91,6 +115,10 @@
 		</dict>
 		<key>Headers/SingularLinkParams.h</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			LNv5S7G6j3up9wYOKehRmG7kbHw=
+			</data>
 			<key>hash2</key>
 			<data>
 			+bkuT+1JXRj4TPwo3WVc97XhobWc1GR1KOzN02JepsU=
@@ -98,6 +126,10 @@
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			TorS1s4kbMcrqQ6GcJkQzJD7mFM=
+			</data>
 			<key>hash2</key>
 			<data>
 			3s8MJVobtUH3wmQvlsHJZfGZAgDjbwcbbnhjL2G6vFE=
@@ -105,6 +137,10 @@
 		</dict>
 		<key>PrivacyInfo.xcprivacy</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			y528A2Lo/+e4PmX5ypJtq3cjT7w=
+			</data>
 			<key>hash2</key>
 			<data>
 			bjbYoqBz5aSsgWFM6WiVVntWSNfBmZIJNZKI5N5xrok=
