@@ -20,6 +20,7 @@ Pod::Spec.new do |spec|
 
   spec.subspec 'Main' do |ss|
     ss.ios.vendored_frameworks = 'Singular.xcframework'
+    ss.resource_bundles = {'Singular' => ['frameworks/Singular.framework/PrivacyInfo.xcprivacy']}
   end
   
   spec.subspec 'Legacy' do |ss|
