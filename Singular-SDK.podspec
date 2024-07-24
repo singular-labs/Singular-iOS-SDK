@@ -1,12 +1,14 @@
 Pod::Spec.new do |spec|
   spec.name         = "Singular-SDK"
-  spec.version      = "12.4.4"
+  spec.version      = "12.5.0"
   spec.summary      = "Singular's iOS SDK"
   spec.description  = "Singular's SDK integration for iOS"
   spec.license      = "MIT"
   spec.homepage     = "https://www.singular.net/"
   spec.author       = "Singular Labs"
   spec.source       = { :git => "https://github.com/singular-labs/Singular-iOS-SDK.git", :tag => spec.version.to_s }
+
+  spec.static_framework = true
 
   spec.ios.deployment_target = "12.0"
   spec.ios.frameworks  = 'AdSupport', 'Security', 'SystemConfiguration', 'StoreKit', 'WebKit'
@@ -18,6 +20,7 @@ Pod::Spec.new do |spec|
 
   spec.subspec 'Main' do |ss|
     ss.ios.vendored_frameworks = 'Singular.xcframework'
+    ss.resource_bundles = {'Singular' => ['frameworks/Singular.framework/PrivacyInfo.xcprivacy']}
   end
   
   spec.subspec 'Legacy' do |ss|
