@@ -14,27 +14,27 @@
 		</data>
 		<key>Headers/Singular.h</key>
 		<data>
-		sBLDtqeepgHLMI0yc6ikncAF+5Q=
+		gSGybpJINntCqGU7fMCFLVqlvxs=
 		</data>
 		<key>Headers/Singular.js</key>
 		<data>
-		e5lbquWxzh44LdpblmL8p7+/g/8=
+		olRxW8QpsujI93WhSbs3lnTJLjw=
 		</data>
 		<key>Headers/SingularAdData.h</key>
 		<data>
-		IZOpHrNFiAPAVzPCZ+yIc+/GzG0=
+		wf50KWv9KMdqUM632JvPAn5dNpo=
 		</data>
 		<key>Headers/SingularConfig.h</key>
 		<data>
-		asDEMdfUC/rB9R0ryB8XG/0bh20=
+		Wg3tzaY/7yOzhgkOzpLJkQyh2Kk=
 		</data>
 		<key>Headers/SingularLinkParams.h</key>
 		<data>
-		LNv5S7G6j3up9wYOKehRmG7kbHw=
+		AXDUcJv/BuehxOtw554IUOnoOOs=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		RHlC4YyMdf+0tbwwjFk6MT1PTiM=
+		wjvvCffWTv84PNQs7jkC7qXQjck=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -73,55 +73,55 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			sBLDtqeepgHLMI0yc6ikncAF+5Q=
+			gSGybpJINntCqGU7fMCFLVqlvxs=
 			</data>
 			<key>hash2</key>
 			<data>
-			bSFLIUILgznF9Y9mKvPRbxyOT5x3XEYw8X6iaIcsorw=
+			vn5TOIpLCLp7fRrnmJ6S0M++xg8o4/BQyA7ArQf0xAs=
 			</data>
 		</dict>
 		<key>Headers/Singular.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			e5lbquWxzh44LdpblmL8p7+/g/8=
+			olRxW8QpsujI93WhSbs3lnTJLjw=
 			</data>
 			<key>hash2</key>
 			<data>
-			SiyIsCQufdKdNw4svHtay8BIggzc96zlba0OCweFT/Q=
+			U2NphGVzl8r6VpBbWcww1y/niI6TTbGAX1dKfrPLspY=
 			</data>
 		</dict>
 		<key>Headers/SingularAdData.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			IZOpHrNFiAPAVzPCZ+yIc+/GzG0=
+			wf50KWv9KMdqUM632JvPAn5dNpo=
 			</data>
 			<key>hash2</key>
 			<data>
-			KcSlOjavAXI3gDdG92YxJtqEVialx7Exv838D1S1M9g=
+			6vAAZdQhDxZiib9+i7E4grzqwOkQSjz4PqxMyO3iPW0=
 			</data>
 		</dict>
 		<key>Headers/SingularConfig.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			asDEMdfUC/rB9R0ryB8XG/0bh20=
+			Wg3tzaY/7yOzhgkOzpLJkQyh2Kk=
 			</data>
 			<key>hash2</key>
 			<data>
-			sgkoe6pnzD23yHtM/softTfm9tS0YCGyejaYXrcI8pI=
+			INwujsFGXJH63pGmLA/ktKPragXgiG/tCveEPCQ3/GE=
 			</data>
 		</dict>
 		<key>Headers/SingularLinkParams.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			LNv5S7G6j3up9wYOKehRmG7kbHw=
+			AXDUcJv/BuehxOtw554IUOnoOOs=
 			</data>
 			<key>hash2</key>
 			<data>
-			+bkuT+1JXRj4TPwo3WVc97XhobWc1GR1KOzN02JepsU=
+			1IrrayeaW5lbMRaw2nLEl1Blz92PsPijMQwGFPEn4ng=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
