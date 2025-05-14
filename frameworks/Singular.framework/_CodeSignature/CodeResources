@@ -14,7 +14,7 @@
 		</data>
 		<key>Headers/Singular.h</key>
 		<data>
-		7Y5AiuBHKy4ARLW5y0awcJsmg9Q=
+		vN5o2pZ4A7qf7I2CXSmd4CNUY/w=
 		</data>
 		<key>Headers/Singular.js</key>
 		<data>
@@ -26,7 +26,7 @@
 		</data>
 		<key>Headers/SingularConfig.h</key>
 		<data>
-		MbmvmgRUzBDWqBN+XxCLxtL1loE=
+		NzrhcOm2IuiVnURw9fwcTqZIMC4=
 		</data>
 		<key>Headers/SingularLinkParams.h</key>
 		<data>
@@ -34,7 +34,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		mxIs5lZ2yufa/gk8MHRo43mMxzU=
+		ostAOp0yQSztIsDhTIme48YfzIw=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -73,11 +73,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			7Y5AiuBHKy4ARLW5y0awcJsmg9Q=
+			vN5o2pZ4A7qf7I2CXSmd4CNUY/w=
 			</data>
 			<key>hash2</key>
 			<data>
-			505xaMv3VP2/kaCkpwV6jTg8JWhsVIs1HBpBdbg55Z4=
+			2R9VKqHHYWvix8ZqAsNYhD4ZdCvNey9zSFmKzjqhNAA=
 			</data>
 		</dict>
 		<key>Headers/Singular.js</key>
@@ -106,11 +106,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			MbmvmgRUzBDWqBN+XxCLxtL1loE=
+			NzrhcOm2IuiVnURw9fwcTqZIMC4=
 			</data>
 			<key>hash2</key>
 			<data>
-			NC+NoMVjZ8GW/0pz+Q87Cv5e4g3tWOFDTeGVYTGqz/Y=
+			0yCQ3NziwlXR0jSaoxibXifQ4ErXRACZR09JaNcOPmY=
 			</data>
 		</dict>
 		<key>Headers/SingularLinkParams.h</key>
