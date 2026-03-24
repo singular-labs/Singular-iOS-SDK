@@ -14,7 +14,7 @@
 		</data>
 		<key>Headers/Singular.h</key>
 		<data>
-		eTU8sHEn6d6Z2E/QwBfIJjbHWzI=
+		dqlsqjcZO3qX5jpIUdL0TcNQynM=
 		</data>
 		<key>Headers/Singular.js</key>
 		<data>
@@ -26,7 +26,7 @@
 		</data>
 		<key>Headers/SingularConfig.h</key>
 		<data>
-		vZea33Ylaj1HYtmDlkQninES3wg=
+		tAZtiPzM/LmQJ0jUTvS7N/TUeBA=
 		</data>
 		<key>Headers/SingularLinkParams.h</key>
 		<data>
@@ -38,11 +38,11 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		DpdiRjYIXYYBDBG/jCIJgHvs/LY=
+		w8R6qpeBW8Qy8ZsZVMiQ3kovyHs=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		TorS1s4kbMcrqQ6GcJkQzJD7mFM=
+		SVWvFXl/1zIWrSiErhos/UwpU/U=
 		</data>
 		<key>PrivacyInfo.xcprivacy</key>
 		<data>
@@ -77,11 +77,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			eTU8sHEn6d6Z2E/QwBfIJjbHWzI=
+			dqlsqjcZO3qX5jpIUdL0TcNQynM=
 			</data>
 			<key>hash2</key>
 			<data>
-			IgHLuEKKq0AdHvUE9QN0f7j36KccwUI5iBMmEcLGu60=
+			nVD+ezVgPxTGDv10Xmcdk+2IvGrI5stNxIBTqSkIvkY=
 			</data>
 		</dict>
 		<key>Headers/Singular.js</key>
@@ -110,11 +110,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			vZea33Ylaj1HYtmDlkQninES3wg=
+			tAZtiPzM/LmQJ0jUTvS7N/TUeBA=
 			</data>
 			<key>hash2</key>
 			<data>
-			0DZKDfNC9tHqVh4ZGUaa+1xPvP6gl0M43EgWkvG3tB4=
+			ziC7hA3GVpYI2cA/MjD5SUqCG2LJQFN7vvkpN4mFN2E=
 			</data>
 		</dict>
 		<key>Headers/SingularLinkParams.h</key>
@@ -143,11 +143,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			TorS1s4kbMcrqQ6GcJkQzJD7mFM=
+			SVWvFXl/1zIWrSiErhos/UwpU/U=
 			</data>
 			<key>hash2</key>
 			<data>
-			3s8MJVobtUH3wmQvlsHJZfGZAgDjbwcbbnhjL2G6vFE=
+			gGYww3cVsZtmRcydmOFxNw5Xz5R7A++gestjKkZpLew=
 			</data>
 		</dict>
 		<key>PrivacyInfo.xcprivacy</key>

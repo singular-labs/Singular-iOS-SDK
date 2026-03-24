@@ -5,6 +5,9 @@ import PackageDescription
 
 let package = Package(
     name: "Singular",
+    platforms: [
+        .iOS(.v12)
+    ],
     products: [
         .library(
             name: "Singular",
@@ -12,8 +15,23 @@ let package = Package(
     ],
     dependencies: [
     ],
-    targets: [.binaryTarget(
-                name: "Singular",
-                path: "Singular.xcframework")]
+    targets: [
+        .binaryTarget(
+            name: "SingularBinary",
+            path: "Singular.xcframework"
+        ),
+        .target(
+            name: "Singular",
+            dependencies: ["SingularBinary"],
+            linkerSettings: [
+                .linkedFramework("StoreKit"),
+                .linkedFramework("SystemConfiguration"),
+                .linkedFramework("AdSupport"),
+                .linkedFramework("Security"),
+                .linkedFramework("WebKit"),
+                .linkedLibrary("sqlite3.0"),
+                .linkedLibrary("z")
+            ]
+        )
+    ]
 )
-
