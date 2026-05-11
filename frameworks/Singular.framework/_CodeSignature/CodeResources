@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/Attributes.h</key>
 		<data>
-		wrLVumjRPbZKRS8e27l5ng9h3MM=
+		rTo1TLOuXuEuZyg/dexz1HjO9Nc=
 		</data>
 		<key>Headers/Events.h</key>
 		<data>
@@ -22,7 +22,7 @@
 		</data>
 		<key>Headers/SingularAdData.h</key>
 		<data>
-		wf50KWv9KMdqUM632JvPAn5dNpo=
+		YJQVbL7UzToj8+1Z2SnolYMOhHg=
 		</data>
 		<key>Headers/SingularConfig.h</key>
 		<data>
@@ -38,7 +38,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		w8R6qpeBW8Qy8ZsZVMiQ3kovyHs=
+		mSHcGQcPPQT4PpayMObk5Fb3GVY=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -55,11 +55,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			wrLVumjRPbZKRS8e27l5ng9h3MM=
+			rTo1TLOuXuEuZyg/dexz1HjO9Nc=
 			</data>
 			<key>hash2</key>
 			<data>
-			XT+GCWYSKu5Mo00KqOppJ0x5hMWreHqpstysiwz9UhQ=
+			5MzVVwwUAko1cqFbWZvuTBN68Z4oe5/JU522MmL3unA=
 			</data>
 		</dict>
 		<key>Headers/Events.h</key>
@@ -99,11 +99,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			wf50KWv9KMdqUM632JvPAn5dNpo=
+			YJQVbL7UzToj8+1Z2SnolYMOhHg=
 			</data>
 			<key>hash2</key>
 			<data>
-			6vAAZdQhDxZiib9+i7E4grzqwOkQSjz4PqxMyO3iPW0=
+			mDLEkOC3eWqUkg87ykcRz6vJxPrBBh/Cp7LtZ+DlQkI=
 			</data>
 		</dict>
 		<key>Headers/SingularConfig.h</key>

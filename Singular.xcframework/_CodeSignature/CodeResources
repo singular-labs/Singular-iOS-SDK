@@ -6,7 +6,7 @@
 	<dict>
 		<key>ios-arm64/Singular.framework/Headers/Attributes.h</key>
 		<data>
-		wrLVumjRPbZKRS8e27l5ng9h3MM=
+		rTo1TLOuXuEuZyg/dexz1HjO9Nc=
 		</data>
 		<key>ios-arm64/Singular.framework/Headers/Events.h</key>
 		<data>
@@ -22,7 +22,7 @@
 		</data>
 		<key>ios-arm64/Singular.framework/Headers/SingularAdData.h</key>
 		<data>
-		wf50KWv9KMdqUM632JvPAn5dNpo=
+		YJQVbL7UzToj8+1Z2SnolYMOhHg=
 		</data>
 		<key>ios-arm64/Singular.framework/Headers/SingularConfig.h</key>
 		<data>
@@ -38,7 +38,7 @@
 		</data>
 		<key>ios-arm64/Singular.framework/Info.plist</key>
 		<data>
-		w8R6qpeBW8Qy8ZsZVMiQ3kovyHs=
+		mSHcGQcPPQT4PpayMObk5Fb3GVY=
 		</data>
 		<key>ios-arm64/Singular.framework/Modules/module.modulemap</key>
 		<data>
@@ -50,11 +50,11 @@
 		</data>
 		<key>ios-arm64/Singular.framework/Singular</key>
 		<data>
-		D3MCAWvUxXHeaklRvZ6nsUJasP8=
+		jECCOrNwpjwzuizLpy94A62U4PU=
 		</data>
 		<key>ios-arm64_x86_64-simulator/Singular.framework/Headers/Attributes.h</key>
 		<data>
-		wrLVumjRPbZKRS8e27l5ng9h3MM=
+		rTo1TLOuXuEuZyg/dexz1HjO9Nc=
 		</data>
 		<key>ios-arm64_x86_64-simulator/Singular.framework/Headers/Events.h</key>
 		<data>
@@ -70,7 +70,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/Singular.framework/Headers/SingularAdData.h</key>
 		<data>
-		wf50KWv9KMdqUM632JvPAn5dNpo=
+		YJQVbL7UzToj8+1Z2SnolYMOhHg=
 		</data>
 		<key>ios-arm64_x86_64-simulator/Singular.framework/Headers/SingularConfig.h</key>
 		<data>
@@ -86,7 +86,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/Singular.framework/Info.plist</key>
 		<data>
-		GS3roVVXWh9HRsfl5DPPNoZpbv0=
+		/U8tBRKNpZn8s2mhEUlGmnaOlRo=
 		</data>
 		<key>ios-arm64_x86_64-simulator/Singular.framework/Modules/module.modulemap</key>
 		<data>
@@ -98,7 +98,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/Singular.framework/Singular</key>
 		<data>
-		74Y/M0uSPmbNBThDi3B6/V4PANY=
+		s2EZHxXC2r6xdcSYKrvzG2TetAc=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -107,11 +107,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			wrLVumjRPbZKRS8e27l5ng9h3MM=
+			rTo1TLOuXuEuZyg/dexz1HjO9Nc=
 			</data>
 			<key>hash2</key>
 			<data>
-			XT+GCWYSKu5Mo00KqOppJ0x5hMWreHqpstysiwz9UhQ=
+			5MzVVwwUAko1cqFbWZvuTBN68Z4oe5/JU522MmL3unA=
 			</data>
 		</dict>
 		<key>ios-arm64/Singular.framework/Headers/Events.h</key>
@@ -151,11 +151,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			wf50KWv9KMdqUM632JvPAn5dNpo=
+			YJQVbL7UzToj8+1Z2SnolYMOhHg=
 			</data>
 			<key>hash2</key>
 			<data>
-			6vAAZdQhDxZiib9+i7E4grzqwOkQSjz4PqxMyO3iPW0=
+			mDLEkOC3eWqUkg87ykcRz6vJxPrBBh/Cp7LtZ+DlQkI=
 			</data>
 		</dict>
 		<key>ios-arm64/Singular.framework/Headers/SingularConfig.h</key>
@@ -195,11 +195,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			w8R6qpeBW8Qy8ZsZVMiQ3kovyHs=
+			mSHcGQcPPQT4PpayMObk5Fb3GVY=
 			</data>
 			<key>hash2</key>
 			<data>
-			M9b6MooPvH+VNjlL5Jh51B+467nC29ux2lK6TshK/CU=
+			eSNq45SL/XcQEhnYIoYYfJ/6laxPbH06k0SZWdv9ajo=
 			</data>
 		</dict>
 		<key>ios-arm64/Singular.framework/Modules/module.modulemap</key>
@@ -228,22 +228,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			D3MCAWvUxXHeaklRvZ6nsUJasP8=
+			jECCOrNwpjwzuizLpy94A62U4PU=
 			</data>
 			<key>hash2</key>
 			<data>
-			V3NFFytTha5Tr7o5QBk7Pon5H1FWSJlF54tsjf9V5U0=
+			ORemU1vmPHPXqtgn+m17+nogHZSR4ww1ht92AvDXlzQ=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/Singular.framework/Headers/Attributes.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			wrLVumjRPbZKRS8e27l5ng9h3MM=
+			rTo1TLOuXuEuZyg/dexz1HjO9Nc=
 			</data>
 			<key>hash2</key>
 			<data>
-			XT+GCWYSKu5Mo00KqOppJ0x5hMWreHqpstysiwz9UhQ=
+			5MzVVwwUAko1cqFbWZvuTBN68Z4oe5/JU522MmL3unA=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/Singular.framework/Headers/Events.h</key>
@@ -283,11 +283,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			wf50KWv9KMdqUM632JvPAn5dNpo=
+			YJQVbL7UzToj8+1Z2SnolYMOhHg=
 			</data>
 			<key>hash2</key>
 			<data>
-			6vAAZdQhDxZiib9+i7E4grzqwOkQSjz4PqxMyO3iPW0=
+			mDLEkOC3eWqUkg87ykcRz6vJxPrBBh/Cp7LtZ+DlQkI=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/Singular.framework/Headers/SingularConfig.h</key>
@@ -327,11 +327,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			GS3roVVXWh9HRsfl5DPPNoZpbv0=
+			/U8tBRKNpZn8s2mhEUlGmnaOlRo=
 			</data>
 			<key>hash2</key>
 			<data>
-			aUJQyF2vnugFLEjgYo5v5+nDQxf7Nnky+dVGcWVxP1k=
+			6UfbbL4fhHnUFTItBJ2ZZGQcRLY6ocIq+XRp4YEF5cM=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/Singular.framework/Modules/module.modulemap</key>
@@ -360,11 +360,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			74Y/M0uSPmbNBThDi3B6/V4PANY=
+			s2EZHxXC2r6xdcSYKrvzG2TetAc=
 			</data>
 			<key>hash2</key>
 			<data>
-			Qb+XHmUxHgGHOeJC2PLuXC7JIKDrZ8ttXG2tc5GtQOI=
+			9DDSmCjqeemzsCgGlm/P39dP4xt+zmCwc7T1UrZeJ34=
 			</data>
 		</dict>
 	</dict>
