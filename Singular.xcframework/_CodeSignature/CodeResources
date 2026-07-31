@@ -26,7 +26,7 @@
 		</data>
 		<key>ios-arm64/Singular.framework/Headers/SingularConfig.h</key>
 		<data>
-		YoZxXNy6fAYlSQonEIbFWwz+xOE=
+		tkPuVQrzrWIT76g0ufntFXADAHU=
 		</data>
 		<key>ios-arm64/Singular.framework/Headers/SingularLinkParams.h</key>
 		<data>
@@ -38,7 +38,7 @@
 		</data>
 		<key>ios-arm64/Singular.framework/Info.plist</key>
 		<data>
-		X6a+QLFsDrWwCV+EenlEHvew5Lg=
+		ALbONasoFMfSB4EILslZFkVotwo=
 		</data>
 		<key>ios-arm64/Singular.framework/Modules/module.modulemap</key>
 		<data>
@@ -50,7 +50,7 @@
 		</data>
 		<key>ios-arm64/Singular.framework/Singular</key>
 		<data>
-		Gly07vpaPBhkkIfvUhomHIMaVO0=
+		KZO3t6DVbyaeSNPJCxXEUFV+/6A=
 		</data>
 		<key>ios-arm64_x86_64-simulator/Singular.framework/Headers/Attributes.h</key>
 		<data>
@@ -74,7 +74,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/Singular.framework/Headers/SingularConfig.h</key>
 		<data>
-		YoZxXNy6fAYlSQonEIbFWwz+xOE=
+		tkPuVQrzrWIT76g0ufntFXADAHU=
 		</data>
 		<key>ios-arm64_x86_64-simulator/Singular.framework/Headers/SingularLinkParams.h</key>
 		<data>
@@ -86,7 +86,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/Singular.framework/Info.plist</key>
 		<data>
-		Uhox5yQGRa/asn3HqC1x2WnEHFw=
+		ElfPJC2lt1VapBhaEIQtxLC/CR8=
 		</data>
 		<key>ios-arm64_x86_64-simulator/Singular.framework/Modules/module.modulemap</key>
 		<data>
@@ -98,17 +98,13 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/Singular.framework/Singular</key>
 		<data>
-		G/0jbUrE3Gex2ZAb5YFZLC/EB/o=
+		Rm1olGNK0Ip2DwfXZ0WXGbd2sOE=
 		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
 		<key>ios-arm64/Singular.framework/Headers/Attributes.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			rTo1TLOuXuEuZyg/dexz1HjO9Nc=
-			</data>
 			<key>hash2</key>
 			<data>
 			5MzVVwwUAko1cqFbWZvuTBN68Z4oe5/JU522MmL3unA=
@@ -116,10 +112,6 @@
 		</dict>
 		<key>ios-arm64/Singular.framework/Headers/Events.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			5IRRK0/rTG8Vu2HIOY4R62XL+x4=
-			</data>
 			<key>hash2</key>
 			<data>
 			4cQQtgU+NpPlW+rlxEtoXT+lBzobfMAHzVTlraY2a+c=
@@ -127,10 +119,6 @@
 		</dict>
 		<key>ios-arm64/Singular.framework/Headers/Singular.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			dqlsqjcZO3qX5jpIUdL0TcNQynM=
-			</data>
 			<key>hash2</key>
 			<data>
 			nVD+ezVgPxTGDv10Xmcdk+2IvGrI5stNxIBTqSkIvkY=
@@ -138,10 +126,6 @@
 		</dict>
 		<key>ios-arm64/Singular.framework/Headers/Singular.js</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			olRxW8QpsujI93WhSbs3lnTJLjw=
-			</data>
 			<key>hash2</key>
 			<data>
 			U2NphGVzl8r6VpBbWcww1y/niI6TTbGAX1dKfrPLspY=
@@ -149,10 +133,6 @@
 		</dict>
 		<key>ios-arm64/Singular.framework/Headers/SingularAdData.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			YJQVbL7UzToj8+1Z2SnolYMOhHg=
-			</data>
 			<key>hash2</key>
 			<data>
 			mDLEkOC3eWqUkg87ykcRz6vJxPrBBh/Cp7LtZ+DlQkI=
@@ -160,21 +140,13 @@
 		</dict>
 		<key>ios-arm64/Singular.framework/Headers/SingularConfig.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			YoZxXNy6fAYlSQonEIbFWwz+xOE=
-			</data>
 			<key>hash2</key>
 			<data>
-			nLvsELaI9UGp3b7wA7VDWx4agnIKbZPmjKwXvFB6dK4=
+			U0SVgw2pAlQCPn/+hJCkvDo0DDEY6C8Y1MqEs4BoKhI=
 			</data>
 		</dict>
 		<key>ios-arm64/Singular.framework/Headers/SingularLinkParams.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			AXDUcJv/BuehxOtw554IUOnoOOs=
-			</data>
 			<key>hash2</key>
 			<data>
 			1IrrayeaW5lbMRaw2nLEl1Blz92PsPijMQwGFPEn4ng=
@@ -182,10 +154,6 @@
 		</dict>
 		<key>ios-arm64/Singular.framework/Headers/SingularLogLevel.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			lspBxZLV41C86NIsahajJCwsJW0=
-			</data>
 			<key>hash2</key>
 			<data>
 			Q/zoDbzv5qJeWuxmru71Mte3xX0hQtPbPTQ3+wdl+9Y=
@@ -193,21 +161,13 @@
 		</dict>
 		<key>ios-arm64/Singular.framework/Info.plist</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			X6a+QLFsDrWwCV+EenlEHvew5Lg=
-			</data>
 			<key>hash2</key>
 			<data>
-			kL4DR41P41fmsxfr5ndVFUQEbxZ6pNnirX0eUAFoJxs=
+			9PkgobiX3k9zroM1g0ee/gdmuuL2WwL8k4ecN6HUqOU=
 			</data>
 		</dict>
 		<key>ios-arm64/Singular.framework/Modules/module.modulemap</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			SVWvFXl/1zIWrSiErhos/UwpU/U=
-			</data>
 			<key>hash2</key>
 			<data>
 			gGYww3cVsZtmRcydmOFxNw5Xz5R7A++gestjKkZpLew=
@@ -215,10 +175,6 @@
 		</dict>
 		<key>ios-arm64/Singular.framework/PrivacyInfo.xcprivacy</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			y528A2Lo/+e4PmX5ypJtq3cjT7w=
-			</data>
 			<key>hash2</key>
 			<data>
 			bjbYoqBz5aSsgWFM6WiVVntWSNfBmZIJNZKI5N5xrok=
@@ -226,21 +182,13 @@
 		</dict>
 		<key>ios-arm64/Singular.framework/Singular</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Gly07vpaPBhkkIfvUhomHIMaVO0=
-			</data>
 			<key>hash2</key>
 			<data>
-			Ib91OcwotXKjNAkMlv2LVWwR4q/AgdhuIk1ZYxH98Q8=
+			hcxFCuWjZj944cHv77yoA4KcqDu3Iq62kpVT3M1mdXI=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/Singular.framework/Headers/Attributes.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			rTo1TLOuXuEuZyg/dexz1HjO9Nc=
-			</data>
 			<key>hash2</key>
 			<data>
 			5MzVVwwUAko1cqFbWZvuTBN68Z4oe5/JU522MmL3unA=
@@ -248,10 +196,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/Singular.framework/Headers/Events.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			5IRRK0/rTG8Vu2HIOY4R62XL+x4=
-			</data>
 			<key>hash2</key>
 			<data>
 			4cQQtgU+NpPlW+rlxEtoXT+lBzobfMAHzVTlraY2a+c=
@@ -259,10 +203,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/Singular.framework/Headers/Singular.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			dqlsqjcZO3qX5jpIUdL0TcNQynM=
-			</data>
 			<key>hash2</key>
 			<data>
 			nVD+ezVgPxTGDv10Xmcdk+2IvGrI5stNxIBTqSkIvkY=
@@ -270,10 +210,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/Singular.framework/Headers/Singular.js</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			olRxW8QpsujI93WhSbs3lnTJLjw=
-			</data>
 			<key>hash2</key>
 			<data>
 			U2NphGVzl8r6VpBbWcww1y/niI6TTbGAX1dKfrPLspY=
@@ -281,10 +217,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/Singular.framework/Headers/SingularAdData.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			YJQVbL7UzToj8+1Z2SnolYMOhHg=
-			</data>
 			<key>hash2</key>
 			<data>
 			mDLEkOC3eWqUkg87ykcRz6vJxPrBBh/Cp7LtZ+DlQkI=
@@ -292,21 +224,13 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/Singular.framework/Headers/SingularConfig.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			YoZxXNy6fAYlSQonEIbFWwz+xOE=
-			</data>
 			<key>hash2</key>
 			<data>
-			nLvsELaI9UGp3b7wA7VDWx4agnIKbZPmjKwXvFB6dK4=
+			U0SVgw2pAlQCPn/+hJCkvDo0DDEY6C8Y1MqEs4BoKhI=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/Singular.framework/Headers/SingularLinkParams.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			AXDUcJv/BuehxOtw554IUOnoOOs=
-			</data>
 			<key>hash2</key>
 			<data>
 			1IrrayeaW5lbMRaw2nLEl1Blz92PsPijMQwGFPEn4ng=
@@ -314,10 +238,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/Singular.framework/Headers/SingularLogLevel.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			lspBxZLV41C86NIsahajJCwsJW0=
-			</data>
 			<key>hash2</key>
 			<data>
 			Q/zoDbzv5qJeWuxmru71Mte3xX0hQtPbPTQ3+wdl+9Y=
@@ -325,21 +245,13 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/Singular.framework/Info.plist</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Uhox5yQGRa/asn3HqC1x2WnEHFw=
-			</data>
 			<key>hash2</key>
 			<data>
-			knumizze4Sw3xI9b9zQvlHsiVcCIvgKFDMRdamD36s0=
+			H6/gvRPrdasl2Zg8qAoaEtpfULMh0JVLM3zH2hWxGFA=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/Singular.framework/Modules/module.modulemap</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			SVWvFXl/1zIWrSiErhos/UwpU/U=
-			</data>
 			<key>hash2</key>
 			<data>
 			gGYww3cVsZtmRcydmOFxNw5Xz5R7A++gestjKkZpLew=
@@ -347,10 +259,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/Singular.framework/PrivacyInfo.xcprivacy</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			y528A2Lo/+e4PmX5ypJtq3cjT7w=
-			</data>
 			<key>hash2</key>
 			<data>
 			bjbYoqBz5aSsgWFM6WiVVntWSNfBmZIJNZKI5N5xrok=
@@ -358,13 +266,9 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/Singular.framework/Singular</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			G/0jbUrE3Gex2ZAb5YFZLC/EB/o=
-			</data>
 			<key>hash2</key>
 			<data>
-			29UZMweCRz8PO3eB9LbUwXle196evCh0PREzyfUMdxc=
+			d6WoJkNeoOjkzj2zQ26/Fi65C6wHolpvlV6gLd29gaw=
 			</data>
 		</dict>
 	</dict>
