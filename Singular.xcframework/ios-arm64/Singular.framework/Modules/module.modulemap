@@ -4,3 +4,7 @@ framework module Singular {
 
   module * { export * }
 }
+
+module Singular.Swift {
+  header "Singular-Swift.h"
+}

@@ -12,6 +12,10 @@
 		<data>
 		5IRRK0/rTG8Vu2HIOY4R62XL+x4=
 		</data>
+		<key>ios-arm64/Singular.framework/Headers/Singular-Swift.h</key>
+		<data>
+		CUjNMmZKx3jxeDlKXwiTjpkijDA=
+		</data>
 		<key>ios-arm64/Singular.framework/Headers/Singular.h</key>
 		<data>
 		IIwiiXNtu0rCqX3NvdLIrgZMT7A=
@@ -42,11 +46,27 @@
 		</data>
 		<key>ios-arm64/Singular.framework/Info.plist</key>
 		<data>
-		/h0Ni2l6rbdPx2fp/TB7Xc7WIz0=
+		+hXvWMThrhN8omqUjPbaonFPNDs=
+		</data>
+		<key>ios-arm64/Singular.framework/Modules/Singular.swiftmodule/arm64-apple-ios.abi.json</key>
+		<data>
+		FiFrVv2og9mnTa/3dk6eLKX1FOY=
+		</data>
+		<key>ios-arm64/Singular.framework/Modules/Singular.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
+		<data>
+		T7doGBMIzQSg8+E4KgClkGB6ODc=
+		</data>
+		<key>ios-arm64/Singular.framework/Modules/Singular.swiftmodule/arm64-apple-ios.swiftdoc</key>
+		<data>
+		ChK+EL6jQfeAjz40Hek2f/sUfKc=
+		</data>
+		<key>ios-arm64/Singular.framework/Modules/Singular.swiftmodule/arm64-apple-ios.swiftinterface</key>
+		<data>
+		T7doGBMIzQSg8+E4KgClkGB6ODc=
 		</data>
 		<key>ios-arm64/Singular.framework/Modules/module.modulemap</key>
 		<data>
-		SVWvFXl/1zIWrSiErhos/UwpU/U=
+		jvLm6y5k2fvy8qTC5r1KIHj2rSE=
 		</data>
 		<key>ios-arm64/Singular.framework/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -54,7 +74,7 @@
 		</data>
 		<key>ios-arm64/Singular.framework/Singular</key>
 		<data>
-		Ib+xZ9dwWyRM35uLKVIpyxsWsTs=
+		Dc5bwzo/ZMRAbQnrxmAsWbdeuU0=
 		</data>
 		<key>ios-arm64_x86_64-simulator/Singular.framework/Headers/Attributes.h</key>
 		<data>
@@ -63,6 +83,10 @@
 		<key>ios-arm64_x86_64-simulator/Singular.framework/Headers/Events.h</key>
 		<data>
 		5IRRK0/rTG8Vu2HIOY4R62XL+x4=
+		</data>
+		<key>ios-arm64_x86_64-simulator/Singular.framework/Headers/Singular-Swift.h</key>
+		<data>
+		sEPBTsCRJwL+hJjHQxc3yG0xyv0=
 		</data>
 		<key>ios-arm64_x86_64-simulator/Singular.framework/Headers/Singular.h</key>
 		<data>
@@ -94,11 +118,43 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/Singular.framework/Info.plist</key>
 		<data>
-		6YDBEJRZRIWIGfpMbaTJR69WIOg=
+		H7hbrSnshHK1aiTKgUbxKnrLYp4=
+		</data>
+		<key>ios-arm64_x86_64-simulator/Singular.framework/Modules/Singular.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
+		<data>
+		FiFrVv2og9mnTa/3dk6eLKX1FOY=
+		</data>
+		<key>ios-arm64_x86_64-simulator/Singular.framework/Modules/Singular.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
+		<data>
+		oYUapiYgZVUXMO8pVIiRzNxIjGQ=
+		</data>
+		<key>ios-arm64_x86_64-simulator/Singular.framework/Modules/Singular.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
+		<data>
+		mGwXh0Xr0vSz5r70i75wms3tkW4=
+		</data>
+		<key>ios-arm64_x86_64-simulator/Singular.framework/Modules/Singular.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
+		<data>
+		oYUapiYgZVUXMO8pVIiRzNxIjGQ=
+		</data>
+		<key>ios-arm64_x86_64-simulator/Singular.framework/Modules/Singular.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
+		<data>
+		FiFrVv2og9mnTa/3dk6eLKX1FOY=
+		</data>
+		<key>ios-arm64_x86_64-simulator/Singular.framework/Modules/Singular.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
+		<data>
+		wwTdzRAL1uQs1mKil3vBwLsBIFw=
+		</data>
+		<key>ios-arm64_x86_64-simulator/Singular.framework/Modules/Singular.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
+		<data>
+		f4U4Dc8NIWGe6KQ5TgxTvW8NL4k=
+		</data>
+		<key>ios-arm64_x86_64-simulator/Singular.framework/Modules/Singular.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
+		<data>
+		wwTdzRAL1uQs1mKil3vBwLsBIFw=
 		</data>
 		<key>ios-arm64_x86_64-simulator/Singular.framework/Modules/module.modulemap</key>
 		<data>
-		SVWvFXl/1zIWrSiErhos/UwpU/U=
+		jvLm6y5k2fvy8qTC5r1KIHj2rSE=
 		</data>
 		<key>ios-arm64_x86_64-simulator/Singular.framework/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -106,7 +162,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/Singular.framework/Singular</key>
 		<data>
-		E5pvGtgl36n5j4JxTEJ48kQkdr0=
+		sdVHmIwHnfk2bhhUB++Dq6zW3fc=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -125,6 +181,13 @@
 			4cQQtgU+NpPlW+rlxEtoXT+lBzobfMAHzVTlraY2a+c=
 			</data>
 		</dict>
+		<key>ios-arm64/Singular.framework/Headers/Singular-Swift.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			F3LWeDeUuDhiAUdSGFSWit/tPKdsyPGUQDV9XHaPr/I=
+			</data>
+		</dict>
 		<key>ios-arm64/Singular.framework/Headers/Singular.h</key>
 		<dict>
 			<key>hash2</key>
@@ -178,14 +241,42 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			DExOojKn/zltr3ygYNq4QZMvUcC9sAXYKDgXhLOlQ00=
+			5sgn/NcmV7QYZvkTBtq3W4/xuBmA0DeRVJErKLBG2Jw=
+			</data>
+		</dict>
+		<key>ios-arm64/Singular.framework/Modules/Singular.swiftmodule/arm64-apple-ios.abi.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			d2E8baSJCNG1I1GyCoRJk/zIR3RXpU7D4dM8M4MqcMI=
+			</data>
+		</dict>
+		<key>ios-arm64/Singular.framework/Modules/Singular.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			5xMOHOWTlY8TKd3dOol57I6atpibFBQrKpyS4Rts9JA=
+			</data>
+		</dict>
+		<key>ios-arm64/Singular.framework/Modules/Singular.swiftmodule/arm64-apple-ios.swiftdoc</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			yQZq/dDsulMLQGf1XWv7RrAkuCvjlGNd8Ifb//5XBVo=
+			</data>
+		</dict>
+		<key>ios-arm64/Singular.framework/Modules/Singular.swiftmodule/arm64-apple-ios.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			5xMOHOWTlY8TKd3dOol57I6atpibFBQrKpyS4Rts9JA=
 			</data>
 		</dict>
 		<key>ios-arm64/Singular.framework/Modules/module.modulemap</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			gGYww3cVsZtmRcydmOFxNw5Xz5R7A++gestjKkZpLew=
+			n4mI1rOHuee4dGeNWTvn0GxM1UZYJdsQ9vk1LZmry9E=
 			</data>
 		</dict>
 		<key>ios-arm64/Singular.framework/PrivacyInfo.xcprivacy</key>
@@ -199,7 +290,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			SYRlI220TuNg0jPkxjbgSU2+vc4n/B2Jecbohu2ilVg=
+			MvVlzXId4KG9cvG+s0kJ2AgLvfd8v00UzJBrA2EPxMo=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/Singular.framework/Headers/Attributes.h</key>
@@ -214,6 +305,13 @@
 			<key>hash2</key>
 			<data>
 			4cQQtgU+NpPlW+rlxEtoXT+lBzobfMAHzVTlraY2a+c=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/Singular.framework/Headers/Singular-Swift.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			hEPKmJLcoPn4Wb8BSjnXY8kNJ8HYFSlI3og8CVDGp90=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/Singular.framework/Headers/Singular.h</key>
@@ -269,14 +367,70 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			JjJhIZjsrKtd2zKJSsrwEqEkJtphaykp8n7PQonfEtg=
+			aldM01AmnCsQ8XAuVr1geV5lchXFuoTE3eJ3aLuwFIE=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/Singular.framework/Modules/Singular.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			d2E8baSJCNG1I1GyCoRJk/zIR3RXpU7D4dM8M4MqcMI=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/Singular.framework/Modules/Singular.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			7P/OkJa3QuitI/Fyd3Fh/42aSoXViqVN2E2nThJkcEg=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/Singular.framework/Modules/Singular.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			TCXs8GkWeBC8gKkBMzUG4HHkK5s8zI5tdmck+XNNJbI=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/Singular.framework/Modules/Singular.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			7P/OkJa3QuitI/Fyd3Fh/42aSoXViqVN2E2nThJkcEg=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/Singular.framework/Modules/Singular.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			d2E8baSJCNG1I1GyCoRJk/zIR3RXpU7D4dM8M4MqcMI=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/Singular.framework/Modules/Singular.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			c+/mgpgq13BKqunXmNtk1SC7PDTziEoHTYgLclVzkig=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/Singular.framework/Modules/Singular.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			/24Eghjenh0OR3iM9pcJQWoUmTjKqDrS9HMV0MFSK44=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/Singular.framework/Modules/Singular.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			c+/mgpgq13BKqunXmNtk1SC7PDTziEoHTYgLclVzkig=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/Singular.framework/Modules/module.modulemap</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			gGYww3cVsZtmRcydmOFxNw5Xz5R7A++gestjKkZpLew=
+			n4mI1rOHuee4dGeNWTvn0GxM1UZYJdsQ9vk1LZmry9E=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/Singular.framework/PrivacyInfo.xcprivacy</key>
@@ -290,7 +444,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZpGB8dVzOMI6WppkuEbOySYk7HoXwwIirR1AxzYC4fk=
+			/saSi9SLisEYpJtkFrgOzxBAts3Tu4ei6aTP95EzxJo=
 			</data>
 		</dict>
 	</dict>
