@@ -18,7 +18,7 @@
 		</data>
 		<key>ios-arm64/Singular.framework/Headers/Singular.h</key>
 		<data>
-		IIwiiXNtu0rCqX3NvdLIrgZMT7A=
+		xq+VoaplOWSYTS9tT6JMVFB2Hn4=
 		</data>
 		<key>ios-arm64/Singular.framework/Headers/Singular.js</key>
 		<data>
@@ -30,7 +30,7 @@
 		</data>
 		<key>ios-arm64/Singular.framework/Headers/SingularConfig.h</key>
 		<data>
-		gwFt3OWg4BOS/+VxzhpQdvJJkxs=
+		1Id+Zq3ZqC9B3UtHOcIVBMHAdnI=
 		</data>
 		<key>ios-arm64/Singular.framework/Headers/SingularLinkParams.h</key>
 		<data>
@@ -46,7 +46,7 @@
 		</data>
 		<key>ios-arm64/Singular.framework/Info.plist</key>
 		<data>
-		+hXvWMThrhN8omqUjPbaonFPNDs=
+		JXD612rw2XEV2Vu2PjAtmMxdjx8=
 		</data>
 		<key>ios-arm64/Singular.framework/Modules/Singular.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
@@ -74,7 +74,7 @@
 		</data>
 		<key>ios-arm64/Singular.framework/Singular</key>
 		<data>
-		Dc5bwzo/ZMRAbQnrxmAsWbdeuU0=
+		/lHyb/e32W0iTWT9ibAxPyey+5I=
 		</data>
 		<key>ios-arm64_x86_64-simulator/Singular.framework/Headers/Attributes.h</key>
 		<data>
@@ -90,7 +90,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/Singular.framework/Headers/Singular.h</key>
 		<data>
-		IIwiiXNtu0rCqX3NvdLIrgZMT7A=
+		xq+VoaplOWSYTS9tT6JMVFB2Hn4=
 		</data>
 		<key>ios-arm64_x86_64-simulator/Singular.framework/Headers/Singular.js</key>
 		<data>
@@ -102,7 +102,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/Singular.framework/Headers/SingularConfig.h</key>
 		<data>
-		gwFt3OWg4BOS/+VxzhpQdvJJkxs=
+		1Id+Zq3ZqC9B3UtHOcIVBMHAdnI=
 		</data>
 		<key>ios-arm64_x86_64-simulator/Singular.framework/Headers/SingularLinkParams.h</key>
 		<data>
@@ -118,7 +118,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/Singular.framework/Info.plist</key>
 		<data>
-		H7hbrSnshHK1aiTKgUbxKnrLYp4=
+		n7ze8gk+4lLYrqJPdrmHQacKXLQ=
 		</data>
 		<key>ios-arm64_x86_64-simulator/Singular.framework/Modules/Singular.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -162,7 +162,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/Singular.framework/Singular</key>
 		<data>
-		sdVHmIwHnfk2bhhUB++Dq6zW3fc=
+		b/2VswMzuWdEqkrnahJg5GsWbrQ=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -192,7 +192,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Z5rRb4Z5zss2Y4SR0RoGM7JpkGJUlHvGHQMC3bg+YAA=
+			oxmzKWBlo4AzNxGzqd/gd06jNXwHC71u/EWxdGDQr7o=
 			</data>
 		</dict>
 		<key>ios-arm64/Singular.framework/Headers/Singular.js</key>
@@ -213,7 +213,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			xdAHOkY/ZD8FjDNdQURu4DSZncZO9/lnJcoeELxfRmQ=
+			KUFAGoEWoN7ynzO+aNyK3rbAZ4lqhtGzT4kT7MuKvSo=
 			</data>
 		</dict>
 		<key>ios-arm64/Singular.framework/Headers/SingularLinkParams.h</key>
@@ -241,7 +241,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			5sgn/NcmV7QYZvkTBtq3W4/xuBmA0DeRVJErKLBG2Jw=
+			oWzNARjkPlPk50UnhoiI8cDRWdwL17WnqFU/pkMTBvE=
 			</data>
 		</dict>
 		<key>ios-arm64/Singular.framework/Modules/Singular.swiftmodule/arm64-apple-ios.abi.json</key>
@@ -290,7 +290,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			MvVlzXId4KG9cvG+s0kJ2AgLvfd8v00UzJBrA2EPxMo=
+			4nWeoalk1Ra+eE+ce6sPPGQUkPJ7ybqtywSgfS3911c=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/Singular.framework/Headers/Attributes.h</key>
@@ -318,7 +318,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Z5rRb4Z5zss2Y4SR0RoGM7JpkGJUlHvGHQMC3bg+YAA=
+			oxmzKWBlo4AzNxGzqd/gd06jNXwHC71u/EWxdGDQr7o=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/Singular.framework/Headers/Singular.js</key>
@@ -339,7 +339,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			xdAHOkY/ZD8FjDNdQURu4DSZncZO9/lnJcoeELxfRmQ=
+			KUFAGoEWoN7ynzO+aNyK3rbAZ4lqhtGzT4kT7MuKvSo=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/Singular.framework/Headers/SingularLinkParams.h</key>
@@ -367,7 +367,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			aldM01AmnCsQ8XAuVr1geV5lchXFuoTE3eJ3aLuwFIE=
+			SVpJANrAF9+x3ff6Jrxbap4A3ADe0/T8Z8d4v+9+kck=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/Singular.framework/Modules/Singular.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
@@ -444,7 +444,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			/saSi9SLisEYpJtkFrgOzxBAts3Tu4ei6aTP95EzxJo=
+			gos1mIqVcCjU9rYyVoGrd+foV3q9RQ4CVqbMc7Vs6lU=
 			</data>
 		</dict>
 	</dict>
