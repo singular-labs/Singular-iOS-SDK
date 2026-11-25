@@ -46,7 +46,7 @@
 		</data>
 		<key>ios-arm64/Singular.framework/Info.plist</key>
 		<data>
-		JXD612rw2XEV2Vu2PjAtmMxdjx8=
+		RlWz24zoEpKs99Lo9gvyaK4gzBY=
 		</data>
 		<key>ios-arm64/Singular.framework/Modules/Singular.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
@@ -74,7 +74,7 @@
 		</data>
 		<key>ios-arm64/Singular.framework/Singular</key>
 		<data>
-		/lHyb/e32W0iTWT9ibAxPyey+5I=
+		lXoB1oMwmd6857RQCKBmE7G0w4U=
 		</data>
 		<key>ios-arm64_x86_64-simulator/Singular.framework/Headers/Attributes.h</key>
 		<data>
@@ -118,7 +118,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/Singular.framework/Info.plist</key>
 		<data>
-		n7ze8gk+4lLYrqJPdrmHQacKXLQ=
+		2TAwL5dYjX44PH+LTbO8z727ewM=
 		</data>
 		<key>ios-arm64_x86_64-simulator/Singular.framework/Modules/Singular.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -162,7 +162,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/Singular.framework/Singular</key>
 		<data>
-		b/2VswMzuWdEqkrnahJg5GsWbrQ=
+		CyNPIBcSvQ1xbGu+4yVwplRxULg=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -241,7 +241,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			oWzNARjkPlPk50UnhoiI8cDRWdwL17WnqFU/pkMTBvE=
+			TFStDwv15ta3eQX/NqBgEhuvTYaPWxv4KHa8rOyV54I=
 			</data>
 		</dict>
 		<key>ios-arm64/Singular.framework/Modules/Singular.swiftmodule/arm64-apple-ios.abi.json</key>
@@ -290,7 +290,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			4nWeoalk1Ra+eE+ce6sPPGQUkPJ7ybqtywSgfS3911c=
+			+yw/AgOe4FNbWNNToyK0yO6LizNQBzrhCgIJOYFag1k=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/Singular.framework/Headers/Attributes.h</key>
@@ -367,7 +367,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			SVpJANrAF9+x3ff6Jrxbap4A3ADe0/T8Z8d4v+9+kck=
+			e1jop3rbPPPPL6h0jTbez7FMIZR3O5NIcc2j+d46A00=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/Singular.framework/Modules/Singular.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
@@ -444,7 +444,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			gos1mIqVcCjU9rYyVoGrd+foV3q9RQ4CVqbMc7Vs6lU=
+			HtHuAypR4ElEkw5XssJ3drRghEYnzNk3Qo7GJXPLOV0=
 			</data>
 		</dict>
 	</dict>
